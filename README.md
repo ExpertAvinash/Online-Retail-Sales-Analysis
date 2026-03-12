@@ -139,6 +139,8 @@ online-retail-rfm-analysis
 
 **Avinash Paliwal**
 
-GitHub: https://github.com/ExpertAvinash 
+GitHub: https://github.com/ExpertAvinash
+
 LinkedIn: https://www.linkedin.com/in/avinash-paliwal-a710a1253/
+
 
