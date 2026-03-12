@@ -13,6 +13,7 @@ The objective is to transform raw transactional data into actionable business in
 The dataset used in this project is publicly available at the UCI Machine Learning Repository.
 
 Source: https://archive.ics.uci.edu/ml/datasets/online+retail
+
 Note: The dataset file is not included in this repository due to GitHub file size limitations.
 
 The dataset contains transactional records from an online retail store. Each row represents a product purchased in a transaction.
@@ -136,5 +137,8 @@ online-retail-rfm-analysis
 
 ## Author
 
-**Avinash**
-GitHub: https://github.com/ExpertAvinash LinkedIn: https://www.linkedin.com/in/avinash-paliwal-a710a1253/
+**Avinash Paliwal**
+
+GitHub: https://github.com/ExpertAvinash 
+LinkedIn: https://www.linkedin.com/in/avinash-paliwal-a710a1253/
+
