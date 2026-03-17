@@ -39,6 +39,7 @@ The dataset contains transactional records from an online retail store. Each row
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* SQL
 
 ---
 
@@ -85,6 +86,25 @@ This segmentation helps businesses design **targeted marketing and retention str
 
 ---
 
+### 4. SQL Analysis
+
+SQL queries were used to extract key business insights from the dataset:
+
+* Top selling products
+
+* Revenue by country
+
+* Monthly sales trends
+
+* Top customers by revenue
+
+* Average order value
+
+### SQL queries are available in:
+Online_Retail_Analysis.sql
+
+---
+
 ## Key Insights
 
 * **November is the peak sales month**, indicating strong seasonal demand.
@@ -122,11 +142,11 @@ These visualizations help communicate insights clearly and support data-driven d
 ```
 online-retail-rfm-analysis
 │
-├── data
-│   └── online_retail.csv
+├── Online Retail Sales Analysis.ipynb
+│   
 │
-├── notebook
-│   └── retail_rfm_analysis.ipynb
+├── Online_Retail_Analysis.sql
+│   
 │
 ├── images
 │
